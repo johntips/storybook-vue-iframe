@@ -2,7 +2,7 @@ import React from 'react'
 import addons from '@storybook/addons'
 import { EVENT_ID } from './shared'
 
-export const WithFigma = ({
+export const IFrame = ({
   children,
   url,
   allowFullScreen,

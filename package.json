@@ -1,7 +1,7 @@
 {
-  "name": "storybook-addon-figma",
+  "name": "storybook-vue-iframe",
   "version": "0.1.0",
-  "description": "Storybook addon for figma",
+  "description": "Storybook vue addon for figma",
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "node .scripts/npm-prepublish.js",
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hharnisc/storybook-addon-figma.git"
+    "url": "git+https://github.com/johntips/storybook-vue-iframe.git"
   },
   "keywords": [
     "storybook",
     "addon",
     "figma"
   ],
-  "author": "",
+  "author": "johntips",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hharnisc/storybook-addon-figma/issues"
+    "url": "https://github.com/johntips/storybook-vue-iframe/issues"
   },
-  "homepage": "https://github.com/hharnisc/storybook-addon-figma#readme",
+  "homepage": "https://github.com/johntips/storybook-vue-iframe",
   "devDependencies": {
     "@storybook/react": "3.2.12",
     "@storybook/storybook-deployer": "^2.0.0",
